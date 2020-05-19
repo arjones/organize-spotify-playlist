@@ -110,6 +110,7 @@ shap==0.32.1
 six==1.14.0
 smart-open==1.11.1
 spacy==2.2.4
+spotipy==2.12.0
 srsly==1.0.2
 suod==0.0.4
 tbb==2019.0
