@@ -82,7 +82,7 @@ preshed==3.0.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
-py==1.8.1
+py==1.10.0
 pyasn1==0.4.8
 pycaret==1.0.0
 Pygments==2.6.1
